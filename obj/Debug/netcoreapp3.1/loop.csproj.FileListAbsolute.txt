@@ -1,0 +1,13 @@
+C:\Users\TAIWO\lists\loop\obj\Debug\netcoreapp3.1\loop.csprojAssemblyReference.cache
+C:\Users\TAIWO\lists\loop\obj\Debug\netcoreapp3.1\loop.csproj.CoreCompileInputs.cache
+C:\Users\TAIWO\lists\loop\obj\Debug\netcoreapp3.1\loop.AssemblyInfoInputs.cache
+C:\Users\TAIWO\lists\loop\obj\Debug\netcoreapp3.1\loop.AssemblyInfo.cs
+C:\Users\TAIWO\lists\loop\bin\Debug\netcoreapp3.1\loop.exe
+C:\Users\TAIWO\lists\loop\bin\Debug\netcoreapp3.1\loop.deps.json
+C:\Users\TAIWO\lists\loop\bin\Debug\netcoreapp3.1\loop.runtimeconfig.json
+C:\Users\TAIWO\lists\loop\bin\Debug\netcoreapp3.1\loop.runtimeconfig.dev.json
+C:\Users\TAIWO\lists\loop\bin\Debug\netcoreapp3.1\loop.dll
+C:\Users\TAIWO\lists\loop\bin\Debug\netcoreapp3.1\loop.pdb
+C:\Users\TAIWO\lists\loop\obj\Debug\netcoreapp3.1\loop.dll
+C:\Users\TAIWO\lists\loop\obj\Debug\netcoreapp3.1\loop.pdb
+C:\Users\TAIWO\lists\loop\obj\Debug\netcoreapp3.1\loop.genruntimeconfig.cache
